@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        upload = async function (element) {
+            let formData = new FormData();
+            formData.append("file", element.files[0]);
+            await fetch('/upload_with_secure_filename', {
+                method: "POST",
+                body: formData
+            }).then(function (response) {
+                return response.text().then(function (text) {
+                    document.getElementById("result").innerHTML = text;
+                });
+            });
+        }
+    </script>
+</head>
+<body>
+<h1>File Upload Test with secure filename</h1>
+
+<div class="file_button">
+    <label for="file_to_upload">Upload</label>
+    <input type="file" id="file_to_upload" onchange="upload(this);">
+</div>
+<br>
+<div>
+    Uploaded file!
+    <div id="result"></div>
+</div>
+</body>
+</html>
