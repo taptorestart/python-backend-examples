@@ -1,0 +1,1 @@
+* * * * * python /home/app/main.py >> /home/app/main.log 2>&1
