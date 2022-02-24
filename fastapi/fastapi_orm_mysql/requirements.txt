@@ -1,0 +1,5 @@
+# pip install "uvicorn[standard]"
+fastapi==0.74.1
+sqlalchemy==1.4.31
+pydantic==1.9.0
+mysqlclient==2.1.0
