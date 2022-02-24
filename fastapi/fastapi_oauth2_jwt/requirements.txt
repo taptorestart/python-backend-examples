@@ -1,0 +1,6 @@
+# pip install "uvicorn[standard]"
+# pip install "passlib[bcrypt]"
+fastapi==0.74.1
+pydantic==1.9.0
+python-multipart==0.0.5
+python-jose==3.3.0
