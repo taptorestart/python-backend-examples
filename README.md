@@ -8,6 +8,7 @@
 
 ## FastAPI
 - [FastAPI - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_minimal)
+- [FastAPI - Query Parameters](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_query_parameters) 
 - [FastAPI - ORM with SQLite](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_orm_sqlite)
 - [FastAPI - ORM with MySQL](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_orm_mysql)
 - [FastAPI - Simple OAuth2 with Password and Bearer](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_oauth2)
