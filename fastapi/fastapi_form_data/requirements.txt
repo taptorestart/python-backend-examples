@@ -1,0 +1,3 @@
+fastapi==0.74.1
+# pip install "uvicorn[standard]"
+python-multipart==0.0.5
