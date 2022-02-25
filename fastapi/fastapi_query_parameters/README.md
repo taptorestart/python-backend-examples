@@ -1,4 +1,4 @@
-# FastAPI orm with MySQL project example
+# FastAPI Query Parameters project example
 
 source: [FastAPI Tutorial - Query Parameters](https://fastapi.tiangolo.com/tutorial/query-params/)
 
