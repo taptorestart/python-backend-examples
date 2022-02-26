@@ -1,0 +1,4 @@
+# pip install "uvicorn[standard]"
+fastapi==0.74.1
+pydantic==1.9.0
+# pip install "pydantic[email]"
