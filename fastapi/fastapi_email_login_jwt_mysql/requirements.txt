@@ -1,0 +1,9 @@
+fastapi==0.74.1
+# pip install uvicorn[standard]
+python-dotenv==0.19.2
+sqlalchemy==1.4.31
+pydantic==1.9.0
+# pip install "pydantic[email]"
+mysqlclient==2.1.0
+python-jose==3.3.0
+# pip install "passlib[bcrypt]"
