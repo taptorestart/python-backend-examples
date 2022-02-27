@@ -1,0 +1,6 @@
+# pip install "uvicorn[standard]"
+fastapi==0.74.1
+pytest==7.0.1
+
+# For pytest
+requests==2.27.1

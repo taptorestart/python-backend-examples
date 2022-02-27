@@ -21,6 +21,7 @@
 - [FastAPI - Dependencies First Steps](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_dependencies_first_steps)
 - [FastAPI - Simple OAuth2 with Password and Bearer](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_oauth2)
 - [FastAPI - OAuth2 with Password (and hashing), Bearer with JWT tokens](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_oauth2_jwt)
+- [FastAPI - Testing](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_testing)
 
 ### Additional Example
 - [FastAPI - ORM with MySQL](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_orm_mysql)
