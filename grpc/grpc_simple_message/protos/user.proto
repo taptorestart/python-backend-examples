@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package grpc;
+
+service UserService {
+  rpc GetUser (UserRequest) returns (User) {}
+}
+
+message User {
+  int32 id = 1;
+  string email = 2;
+  int32 is_active = 3;
+  int32 is_superuser = 4;
+}
+
+message UserRequest {
+  string email = 1;
+}
