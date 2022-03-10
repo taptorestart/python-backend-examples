@@ -10,8 +10,8 @@ MacOS v12.2.1
 
 ## Install
 ```shell
-$ mkdir fastapi_minimal
-$ cd fastapi_minimal
+$ mkdir fastapi_testing
+$ cd fastapi_testing
 $ python3 -m venv venv
 $ source ./venv/bin/activate
 $ pip install "uvicorn[standard]"

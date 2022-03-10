@@ -9,8 +9,8 @@ Python v3.8.2
 
 ## Install
 ```shell
-$ mkdir fastapi_minimal
-$ cd fastapi_minimal
+$ mkdir fastapi_form_data
+$ cd fastapi_form_data
 $ python3 -m venv venv
 $ source ./venv/bin/activate
 $ pip install -r requirements.txt
