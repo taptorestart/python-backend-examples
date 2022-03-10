@@ -9,8 +9,8 @@ Python v3.8.2
 
 ## Install
 ```shell
-$ mkdir fastapi_minimal
-$ cd fastapi_minimal
+$ mkdir fastapi_orm_sqlite
+$ cd fastapi_orm_sqlite
 $ python3 -m venv venv
 $ source ./venv/bin/activate
 $ pip install fastapi==0.74.1

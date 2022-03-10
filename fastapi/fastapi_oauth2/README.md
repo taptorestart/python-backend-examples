@@ -9,8 +9,8 @@ Python v3.8.2
 
 ## Install
 ```shell
-$ mkdir fastapi_minimal
-$ cd fastapi_minimal
+$ mkdir fastapi_oauth2
+$ cd fastapi_oauth2
 $ python3 -m venv venv
 $ source ./venv/bin/activate
 $ pip install "uvicorn[standard]"

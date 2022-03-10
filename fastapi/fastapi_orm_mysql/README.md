@@ -10,8 +10,8 @@ Mysql v5.7
 
 ## Install
 ```shell
-$ mkdir fastapi_minimal
-$ cd fastapi_minimal
+$ mkdir fastapi_orm_mysql
+$ cd fastapi_orm_mysql
 $ python3 -m venv venv
 $ source ./venv/bin/activate
 $ pip install fastapi==0.74.1
