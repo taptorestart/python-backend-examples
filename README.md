@@ -43,6 +43,12 @@
 - [gRPC - Simple Message server and client](https://github.com/taptorestart/python-backend-examples/tree/main/protocol/grpc_simple_message)
 
 
+## Event Streaming
+
+### Kafka
+- [Kafka Python Client - Producer and consumer](https://github.com/taptorestart/python-backend-examples/tree/main/event_streaming/kafka_python)
+
+
 ## Docker
 - [Docker - Cron](https://github.com/taptorestart/python-backend-examples/tree/main/docker/docker_cron)
 
