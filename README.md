@@ -37,7 +37,9 @@
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
 
-## gRPC
+## Protocol
+
+### gRPC
 - [gRPC - Simple Message server and client](https://github.com/taptorestart/python-backend-examples/tree/main/grpc/grpc_simple_message)
 
 
