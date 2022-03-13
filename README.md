@@ -40,7 +40,7 @@
 ## Protocol
 
 ### gRPC
-- [gRPC - Simple Message server and client](https://github.com/taptorestart/python-backend-examples/tree/main/grpc/grpc_simple_message)
+- [gRPC - Simple Message server and client](https://github.com/taptorestart/python-backend-examples/tree/main/protocol/grpc_simple_message)
 
 
 ## Docker
