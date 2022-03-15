@@ -9,7 +9,7 @@
 
 ## FastAPI
 
-### [Tutorial](https://fastapi.tiangolo.com/tutorial/) Example
+### [Tutorial](https://fastapi.tiangolo.com/tutorial/) User Guide Example
 - [FastAPI - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_minimal)
 - [FastAPI - Path Parameters](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_path_parameters)
 - [FastAPI - Query Parameters](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_query_parameters)
@@ -23,6 +23,9 @@
 - [FastAPI - OAuth2 with Password (and hashing), Bearer with JWT tokens](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_oauth2_jwt)
 - [FastAPI - Static Files](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_static)
 - [FastAPI - Testing](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_testing)
+
+### [Advanced](https://fastapi.tiangolo.com/advanced/) User Guide Example
+- [FastAPI - Templates](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_templates)
 
 ### Additional Example
 - [FastAPI - ORM with MySQL](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_orm_mysql)
