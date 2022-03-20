@@ -43,6 +43,10 @@
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
 
+## DRF(Django Rest Framework)
+- [DRF - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_minimal)
+
+
 ## Protocol
 
 ### gRPC
