@@ -33,6 +33,7 @@ item.html
     <title>Item Details</title>
     <link href="{{ url_for('static', path='/styles.css') }}" rel="stylesheet">
     <link href="static/styles.css" rel="stylesheet">
+    <link href="/static/styles.css" rel="stylesheet">
 </head>
 <body>
     <h1>Item ID: {{ id }}</h1>
@@ -49,6 +50,7 @@ View source
     <title>Item Details</title>
     <link href="http://127.0.0.1:8000/static/styles.css" rel="stylesheet">
     <link href="static/styles.css" rel="stylesheet">
+    <link href="/static/styles.css" rel="stylesheet">
 </head>
 <body>
     <h1>Item ID: 3</h1>
@@ -58,4 +60,9 @@ View source
 
 If you click "static/styles.css", you will show this message "{"detail":"Not Found"}"
 
-![items/static/styles](screenshots/static_styles.css.png)
+![items/static/styles](screenshots/items_static_styles_css.png)
+
+If you click "/static/styles.css", you can see style.css.
+So you must set url with "/" like "/static/styles.css"! 
+
+![items/static/styles](screenshots/static_styles_css.png)
