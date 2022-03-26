@@ -4,8 +4,8 @@ Reference: https://www.django-rest-framework.org/tutorial/quickstart/
 ## Install
 
 ```shell
-$ python3 -m venv env
-$ source env/bin/activate
+$ python3 -m venv venv
+$ source ./venv/bin/activate
 $ pip install django==3.2.12
 $ pip install djangorestframework==3.12.4
 ```

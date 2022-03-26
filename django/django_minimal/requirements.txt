@@ -1,0 +1,2 @@
+# Django LTS 3.2.12 https://www.djangoproject.com/download/
+Django==3.2.12
