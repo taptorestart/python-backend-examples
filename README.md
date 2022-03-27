@@ -40,6 +40,8 @@
 
 ## Django
 - [Django - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_minimal)
+- [Django - Admin and Register app's model](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_admin_register_app)
+
 - [Django - Celery Worker](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_celery_worker)
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
