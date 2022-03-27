@@ -1,5 +1,5 @@
-# DRF(Django Rest Framework) minimal
-Reference: https://www.django-rest-framework.org/tutorial/quickstart/
+# DRF(Django REST framework) minimal
+Reference: [Django REST framework Quickstart](https://www.django-rest-framework.org/tutorial/quickstart/)
 
 ## Install
 

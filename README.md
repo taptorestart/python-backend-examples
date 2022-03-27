@@ -1,6 +1,7 @@
 # Python Back-end Examples
 
 ## Flask
+### Basic Example
 - [Flask - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/flask/flask_minimal)
 - [Flask - ORM](https://github.com/taptorestart/python-backend-examples/tree/main/flask/flask_orm)
 - [Flask - File Upload](https://github.com/taptorestart/python-backend-examples/tree/main/flask/flask_file_upload)
@@ -8,7 +9,6 @@
 
 
 ## FastAPI
-
 ### [Tutorial](https://fastapi.tiangolo.com/tutorial/) User Guide Example
 - [FastAPI - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_minimal)
 - [FastAPI - Path Parameters](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_path_parameters)
@@ -48,18 +48,18 @@
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
 
-## DRF(Django Rest Framework)
+## DRF(Django REST framework)
+### Basic Example
 - [DRF - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_minimal)
+- [DRF - OpenAPI Specification(Swagger)](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_swagger)
 
 
 ## Protocol
-
 ### gRPC
 - [gRPC - Simple Message server and client](https://github.com/taptorestart/python-backend-examples/tree/main/protocol/grpc_simple_message)
 
 
 ## Event Streaming
-
 ### Kafka
 - [Kafka Python Client - Producer and consumer](https://github.com/taptorestart/python-backend-examples/tree/main/event_streaming/kafka_python)
 
