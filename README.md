@@ -48,8 +48,10 @@
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
 
-## DRF(Django Rest Framework)
+## DRF(Django REST framework)
+### Basic Example
 - [DRF - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_minimal)
+- [DRF - OpenAPI Specification(Swagger)](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_swagger)
 
 
 ## Protocol
