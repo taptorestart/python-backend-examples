@@ -33,6 +33,7 @@
 ### Additional Example
 - [FastAPI - ORM with MySQL](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_orm_mysql)
 - [FastAPI - API Router](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_api_router)
+- [FastAPI - Cache with Redis](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_cache_redis)
 
 ### Base Project Example
 - [FastAPI - Email Login with Password(and hashing), Bearer with JWT Token, ORM with MySQL](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_email_login_jwt_mysql)
