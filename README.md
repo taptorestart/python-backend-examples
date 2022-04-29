@@ -53,6 +53,7 @@
 ### Basic Example
 - [DRF - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_minimal)
 - [DRF - OpenAPI Specification(Swagger)](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_swagger)
+- [DRF - CRUD](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_crud)
 
 
 ## Protocol
