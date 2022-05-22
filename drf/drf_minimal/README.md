@@ -13,7 +13,6 @@ Set up a new project with a single application
 ```shell
 $ django-admin startproject project . 
 $ django-admin startapp app
-$ cd ..
 ```
 
 ## Migration
