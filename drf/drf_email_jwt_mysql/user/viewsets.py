@@ -1,6 +1,6 @@
 from rest_framework import viewsets
-from app.models import User
-from app.serializers import UserSerializer
+from user.models import User
+from user.serializers import UserSerializer
 from rest_framework import permissions
 from rest_framework import status
 from rest_framework.response import Response
@@ -8,7 +8,7 @@ from django.contrib.auth.hashers import make_password
 from django.core.validators import validate_email
 from django.core.exceptions import ValidationError
 import logging
-logger = logging.getLogger('app')
+logger = logging.getLogger('user')
 
 
 def validate_user_email(email):
