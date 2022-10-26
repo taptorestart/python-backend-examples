@@ -55,6 +55,8 @@
 - [DRF - OpenAPI Specification(Swagger)](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_swagger)
 - [DRF - CRUD](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_crud)
 
+### Open Source Projects using DRF
+- [Label Studio](https://github.com/heartexlabs/label-studio), Apache-2.0 license
 
 ## Protocol
 ### gRPC
