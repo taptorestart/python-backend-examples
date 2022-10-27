@@ -60,6 +60,7 @@
 
 ### Open Source Projects using DRF
 - [Label Studio](https://github.com/heartexlabs/label-studio), Heartex, Apache-2.0 license
+- [Vataxia](https://github.com/buckyroberts/Vataxia), buckyroberts
 
 
 ## Protocol
