@@ -51,6 +51,9 @@
 - [Django - Celery Worker](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_celery_worker)
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
+### Open Source Projects using Django
+- [djangoproject.com](https://github.com/django/djangoproject.com), django
+
 
 ## DRF(Django REST framework)
 ### Basic Example
