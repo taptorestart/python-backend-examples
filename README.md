@@ -62,6 +62,7 @@
 - [DRF - CRUD](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_crud)
 
 ### Open Source Projects using DRF
+- [CVAT](https://github.com/opencv/cvat), opencv, MIT license
 - [Label Studio](https://github.com/heartexlabs/label-studio), Heartex, Apache-2.0 license
 - [Vataxia](https://github.com/buckyroberts/Vataxia), buckyroberts
 
