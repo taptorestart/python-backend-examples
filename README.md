@@ -56,6 +56,9 @@
 - [django-cms](https://github.com/django-cms/django-cms), django-cms, BSD-3-Clause license
 - [django-oscar](https://github.com/django-oscar/django-oscar), django-oscar, BSD-3-Clause license
 - [django-shop](https://github.com/awesto/django-shop), awesto, BSD-3-Clause license
+- [saleor](https://github.com/saleor/saleor), saleor, BSD-3-Clause license
+- [sentry](https://github.com/getsentry/sentry), getsentry
+
 
 ## DRF(Django REST framework)
 ### Basic Example
