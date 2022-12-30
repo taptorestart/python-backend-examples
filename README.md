@@ -52,8 +52,10 @@
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
 ### Open Source Projects using Django
-- [djangoproject.com](https://github.com/django/djangoproject.com), django
-
+- [djangoproject.com](https://github.com/django/djangoproject.com), django, BSD-3-Clause license
+- [django-cms](https://github.com/django-cms/django-cms), django-cms, BSD-3-Clause license
+- [django-oscar](https://github.com/django-oscar/django-oscar), django-oscar, BSD-3-Clause license
+- [django-shop](https://github.com/awesto/django-shop), awesto, BSD-3-Clause license
 
 ## DRF(Django REST framework)
 ### Basic Example
