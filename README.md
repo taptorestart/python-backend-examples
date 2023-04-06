@@ -88,6 +88,7 @@
 
 ## Test
 - [REST API E2E Test using requests](https://github.com/taptorestart/python-backend-examples/tree/main/test/rest_api)
+- [CORS Test using Flask](https://github.com/taptorestart/python-backend-examples/tree/main/test/cors)
 
 
 Email: taptorestart@gmail.com
