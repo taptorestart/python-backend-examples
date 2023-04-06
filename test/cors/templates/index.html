@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <style>
+        body {
+            opacity: 0.8;
+            background-color: black;
+        }
+    </style>
+    <script type='text/javascript' src="{{ url_for('static', filename='js/test_google.js') }}"></script>
+</head>
+<body>
+<div class="container-md mt-3">
+    <button type="button" class="btn btn-secondary m-5" onclick="main();"><span class="display-6">CORS Test</span></button>
+</div>
+</body>
+</html>
