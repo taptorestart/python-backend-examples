@@ -8,7 +8,7 @@
 - [Flask - Ajax](https://github.com/taptorestart/python-backend-examples/tree/main/flask/flask_ajax)
 
 ### Open Source Projects using Flask
-- [airflow](https://github.com/apache/airflow), Apache, Apache-2.0 license
+- [airflow](https://github.com/apache/airflow) by Apache, Apache-2.0 license
 
 
 ## FastAPI
@@ -52,12 +52,11 @@
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
 
 ### Open Source Projects using Django
-- [djangoproject.com](https://github.com/django/djangoproject.com), django, BSD-3-Clause license
-- [django-cms](https://github.com/django-cms/django-cms), django-cms, BSD-3-Clause license
-- [django-oscar](https://github.com/django-oscar/django-oscar), django-oscar, BSD-3-Clause license
-- [django-shop](https://github.com/awesto/django-shop), awesto, BSD-3-Clause license
-- [saleor](https://github.com/saleor/saleor), saleor, BSD-3-Clause license
-- [sentry](https://github.com/getsentry/sentry), getsentry
+- [djangoproject.com](https://github.com/django/djangoproject.com) by django, BSD-3-Clause license
+- [django-cms](https://github.com/django-cms/django-cms) by django-cms, BSD-3-Clause license
+- [django-oscar](https://github.com/django-oscar/django-oscar) by django-oscar, BSD-3-Clause license
+- [django-shop](https://github.com/awesto/django-shop) by awesto, BSD-3-Clause license
+- [saleor](https://github.com/saleor/saleor) by saleor, BSD-3-Clause license
 
 
 ## DRF(Django REST framework)
@@ -67,9 +66,9 @@
 - [DRF - CRUD](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_crud)
 
 ### Open Source Projects using DRF
-- [CVAT](https://github.com/opencv/cvat), opencv, MIT license
-- [Label Studio](https://github.com/heartexlabs/label-studio), Heartex, Apache-2.0 license
-- [Vataxia](https://github.com/buckyroberts/Vataxia), buckyroberts
+- [CVAT](https://github.com/opencv/cvat) by opencv, MIT license
+- [Label Studio](https://github.com/heartexlabs/label-studio), by Heartex, Apache-2.0 license
+- [forms](https://github.com/taptorestart/forms) by taptorestart, MIT license
 
 
 ## Protocol
