@@ -3,7 +3,7 @@ Reference:
 - [Django REST framework Quickstart](https://www.django-rest-framework.org/tutorial/quickstart/)
 - [drf-yasg](https://drf-yasg.readthedocs.io/en/stable/)
 
-This example is using [DRF Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_minimal).
+This example is using [DRF Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_minimal).
 
 
 ## Install
