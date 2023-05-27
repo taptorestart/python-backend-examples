@@ -64,6 +64,7 @@
 - [DRF - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_minimal)
 - [DRF - OpenAPI Specification(Swagger)](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_swagger)
 - [DRF - CRUD](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_crud)
+- [DRF - Testing](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_testing)
 
 ### Open Source Projects using DRF
 - [CVAT](https://github.com/opencv/cvat) by opencv, MIT license
